@@ -1,7 +1,7 @@
 # trydjango
 
 
-## to setup django envirement: 
+to setup django envirement: 
 
 
 
