@@ -2,12 +2,15 @@
 
 
 to setup django envirement: <br/>
-```mkdir trydjango```<br/>
-`cd trydjango`<br/>
-`python -m venv myenv`<br/>
-`myenv\scripts\activate`<br/>
-`python -m pip install --upgrade pip`<br/>
-`pip install django`<br/>
+```
+mkdir trydjango
+cd trydjango
+python -m venv myenv
+myenv\scripts\activate
+python -m pip install --upgrade pip
+pip install django
+
+```
 to check versions:<br/>
 `pip freeze`<br/>
 create source folder of the project in trydjango folder:<br/>
