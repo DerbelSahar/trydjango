@@ -11,10 +11,18 @@ python -m pip install --upgrade pip
 pip install django
 
 ```
-to check versions:<br/>
-`pip freeze`<br/>
-create source folder of the project in trydjango folder:<br/>
-`mkdir src`<br/>
-`cd src`<br/>
-to create a project called "my project":<br/>
-`django-admin startproject myproject`<br/>
+to check versions:
+```
+pip freeze
+
+```
+create source folder of the project in trydjango folder:
+```
+mkdir src
+cd src
+
+```
+to create a project called "my project":
+```
+django-admin startproject myproject
+```
