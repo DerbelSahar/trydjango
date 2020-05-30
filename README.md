@@ -16,8 +16,9 @@ to check versions:
 pip freeze
 
 ```
-create source folder of the project in trydjango folder:
+create source folder of the project in myenv folder:
 ```
+cd myenv
 mkdir src
 cd src
 
