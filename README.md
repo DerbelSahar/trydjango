@@ -1,11 +1,7 @@
 # trydjango
 
 
-to setup django envirement: 
-
-
-
-<br/>
+to setup django envirement: <br/>
 ```mkdir trydjango```<br/>
 `cd trydjango`<br/>
 `python -m venv myenv`<br/>
